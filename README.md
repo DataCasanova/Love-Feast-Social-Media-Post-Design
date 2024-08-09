@@ -14,7 +14,7 @@ Design Approach:
 - The design process began with a deep understanding of the event's theme—Love Feast, which is centered around community, sharing, and warmth. I focused on creating a design that would not only attract attention but also evoke the desired emotions associated with the event.
 
 
-
+Love Feast           |      social media post
 :-------------------:|:------------------------:
 ![](1.png)           |    ![](2.png)
 
